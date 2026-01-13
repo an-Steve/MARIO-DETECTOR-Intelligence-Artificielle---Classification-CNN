@@ -1,4 +1,5 @@
 🎮 Mario Detector - CNN Classifier
+Réalisé par ANTON NELCON Steve
 
 <img width="498" height="542" alt="image" src="https://github.com/user-attachments/assets/843c8af6-4bd9-4b18-ba38-e0c2eef37a0a" />
 
