@@ -35,21 +35,6 @@ https://img.shields.io/badge/License-MIT-blue
 
     JavaScript ES6+ - Logique de détection avancée
 
-mario-detector/
-│
-├── index.html              # Page principale
-├── README.md              # Ce fichier
-│
-├── assets/                # Ressources
-│   ├── images/           # Images d'exemple
-│   └── models/          # Modèles CNN (optionnel)
-│
-└── features/            # Caractéristiques détectées
-    ├── couleur-rouge    # Rouge caractéristique Mario
-    ├── couleur-bleue    # Bleu de la salopette
-    ├── couleur-peau     # Teint de peau
-    └── formes-caractéristiques # Formes spécifiques
-
 🎮 Comment utiliser
 Méthode 1 : Utilisation directe
 
